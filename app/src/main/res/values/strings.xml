@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">BIN Info App</string>
+    <string name="enter_string">Enter the first digits of a card number (BIN/IIN)</string>
+    <string name="scheme_network">Scheme/Network</string>
+    <string name="type">Type</string>
+    <string name="brand">Brand</string>
+    <string name="slash">/</string>
+    <string name="debit">Debit</string>
+    <string name="credit">Credit</string>
+    <string name="prepaid">Prepaid</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="card_number">Card Number</string>
+    <string name="length">Length</string>
+    <string name="luhn">Luhn</string>
+    <string name="country">Country</string>
+    <string name="latitude">(latitude:</string>
+    <string name="longitude">,longitude:</string>
+    <string name="end">)</string>
+    <string name="bank">Bank</string>
+    <string name="question_mark">\?</string>
 </resources>
